@@ -1,2 +1,2 @@
-# dhis2
-Project done for integrating DHIS2
+# DHIS2-Apache-Tomcat-SV
+Setting up tomcat server, PostgreSQL database for DHIS2 dashboard
